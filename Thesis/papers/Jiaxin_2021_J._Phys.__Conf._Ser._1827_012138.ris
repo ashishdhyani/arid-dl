@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1088/1742-6596/1827/1/012138
+UR  - http://dx.doi.org/10.1088/1742-6596/1827/1/012138
+TI  - A review of action recognition based on Convolutional Neural Network
+T2  - Journal of Physics: Conference Series
+AU  - Jiaxin, Yang
+AU  - Fang, Wang
+AU  - Jieru, Yang
+PY  - 2021
+DA  - 2021/03/01
+PB  - IOP Publishing
+SP  - 012138
+IS  - 1
+VL  - 1827
+SN  - 1742-6588
+SN  - 1742-6596
+AB  - At present, the development of video action recognition is very rapid in many fields, such as video understanding, intelligent monitoring, and human-computer interaction. However, there are some challenges in the development of action recognition, and researchers have tried to put forward some explorations. Convolutional neural network (CNN) is applied to action recognition, which improves the performance of action recognition. It is divided into 3 methods in this paper. In addition, C3D, Two-stream and I3D, three classic CNN algorithms, are reproduced. And their recognition rates are 72%, 78.0% and 97.6% respectively on the UCF101 dataset.
+ER  - 

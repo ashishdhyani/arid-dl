@@ -1,0 +1,22 @@
+TY  - JOUR
+T1  - A survey on still image based human action recognition
+AU  - Guo, Guodong
+AU  - Lai, Alice
+JO  - Pattern Recognition
+VL  - 47
+IS  - 10
+SP  - 3343
+EP  - 3361
+PY  - 2014
+DA  - 2014/10/01/
+SN  - 0031-3203
+DO  - https://doi.org/10.1016/j.patcog.2014.04.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0031320314001642
+KW  - Action recognition
+KW  - Still image based
+KW  - Various cues
+KW  - Databases
+KW  - Survey
+KW  - Evaluation
+AB  - Recently still image-based human action recognition has become an active research topic in computer vision and pattern recognition. It focuses on identifying a person׳s action or behavior from a single image. Unlike the traditional action recognition approaches where videos or image sequences are used, a still image contains no temporal information for action characterization. Thus the prevailing spatiotemporal features for video-based action analysis are not appropriate for still image-based action recognition. It is more challenging to perform still image-based action recognition than the video-based one, given the limited source of information as well as the cluttered background for images collected from the Internet. On the other hand, a large number of still images exist over the Internet. Therefore it is demanding to develop robust and efficient methods for still image-based action recognition to understand the web images better for image retrieval or search. Based on the emerging research in recent years, it is time to review the existing approaches to still image-based action recognition and inspire more efforts to advance the field of research. We present a detailed overview of the state-of-the-art methods for still image-based action recognition, and categorize and describe various high-level cues and low-level features for action analysis in still images. All related databases are introduced with details. Finally, we give our views and thoughts for future research.
+ER  - 

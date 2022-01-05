@@ -24,7 +24,7 @@ class EGAN:
 		cv2.imwrite(input, self.frame)
 		cv2.waitKey(0)
 		
-        os.system("python models/EGAN/scripts/script.py --predict");
+		os.system("python models/EGAN/scripts/script.py --predict");
 		
 		frame = cv2.imread(output)
 		

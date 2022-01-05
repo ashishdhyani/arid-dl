@@ -22,7 +22,7 @@ class KIND:
 		cv2.imwrite(input, self.frame)
 		cv2.waitKey(0)
 		
-        os.system("python models/KiND/scripts/evaluate.py");
+		os.system("python models/KiND/scripts/evaluate.py");
 		
 		frame = cv2.imread(output)
 		
